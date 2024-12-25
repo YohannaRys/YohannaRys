@@ -1,0 +1,2 @@
+- Hello! I am Ma. Cristine Yohanna A. Reyes, a Data Analyst student from the University of the Cordilleras. 
+- I am currently trying to work on related project on Data Analysis and Business Intelligence, as I try to further improve my skills on programming and analytics.
